@@ -34,7 +34,7 @@ This template helps you organize your Grasshopper scripting projects by combinin
    ```bash
    git clone https://github.com/your-username/cursor-grasshopper-template
    ```
-   Or use this as a template repository on GitHub!
+   Or simply download it.
 
 2. **Setup MCP**
    - Follow the setup instructions at [rhino-mcp](https://github.com/SerjoschDuering/rhino-mcp)
@@ -48,12 +48,3 @@ This template helps you organize your Grasshopper scripting projects by combinin
    - Open the `grasshopper_mcp_client.gh` file in Grasshopper
    - Or copy the necessary components to your existing Grasshopper definition
 
-
-
-## 📄 License
-
-This template is available under the MIT License. Feel free to use it for your projects!
-
----
-
-Happy coding! 🎨✨ Remember to star ⭐ this repository if you find it useful!
