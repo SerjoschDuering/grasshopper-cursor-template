@@ -2,7 +2,7 @@
 
 A template repository for organizing Grasshopper scripting projects with Cursor IDE and MCP (Model Context Protocol) integration! 🚀
 
-![Project Overview](img.jpg)
+![Project Overview](docs/img.jpg)
 
 ## 🌟 What is this?
 
